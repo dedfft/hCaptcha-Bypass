@@ -1,3 +1,4 @@
+⭐ & 🍴 for updates
 # hCaptcha-Solver
 A quick hCaptcha solver, free of trojans. **I'm pretty sure h0nde originially made this, all credits to the creators**
 
